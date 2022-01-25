@@ -3,8 +3,3 @@ variable "vpc_name" {
   type        = string
 }
 
-variable "load_balancer_name" {
-  description = "Name of the load balancer"
-  type        = string
-}
-
